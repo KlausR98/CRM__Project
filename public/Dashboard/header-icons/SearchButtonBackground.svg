@@ -1,0 +1,16 @@
+<svg width="31" height="30" viewBox="0 0 31 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Search button">
+<rect x="1.25" y="0.5" width="29" height="29" rx="9.5" stroke="#00BAC7"/>
+<g id="svg" clip-path="url(#clip0_400_2253)">
+<g id="Frame">
+<path id="Vector" d="M8.73139 17.6234C9.35816 19.0982 10.5451 20.2636 12.0311 20.8632C13.5171 21.4628 15.1805 21.4476 16.6553 20.8208C18.1301 20.1941 19.2954 19.0071 19.8951 17.5211C20.4947 16.0351 20.4795 14.3717 19.8527 12.897C19.2259 11.4222 18.039 10.2568 16.553 9.65714C15.067 9.05751 13.4036 9.07275 11.9288 9.69952C10.454 10.3263 9.28865 11.5132 8.68902 12.9993C8.08938 14.4853 8.10462 16.1486 8.73139 17.6234V17.6234Z" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M18.564 19.532L23.25 24.2186" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_400_2253">
+<rect width="16" height="16" fill="white" transform="translate(7.75 8.71875)"/>
+</clipPath>
+</defs>
+</svg>

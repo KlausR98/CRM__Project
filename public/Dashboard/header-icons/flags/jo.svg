@@ -1,0 +1,27 @@
+<svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="jo" clip-path="url(#clip0_186_10134)">
+<g id="Clip path group">
+<mask id="mask0_186_10134" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="18" height="18">
+<g id="jo-a">
+<path id="Vector" d="M0.00195312 0H17.9985V18.0002H0.00195312V0Z" fill="white"/>
+</g>
+</mask>
+<g mask="url(#mask0_186_10134)">
+<g id="Group">
+<g id="Group_2">
+<path id="Vector_2" fill-rule="evenodd" clip-rule="evenodd" d="M-4.1416 0H31.8588V6.00007H-4.1416V0Z" fill="#000001"/>
+<path id="Vector_3" fill-rule="evenodd" clip-rule="evenodd" d="M-4.1416 6H31.8588V12.0001H-4.1416V6Z" fill="white"/>
+<path id="Vector_4" fill-rule="evenodd" clip-rule="evenodd" d="M-4.1416 12H31.8588V18.0001H-4.1416V12Z" fill="#009900"/>
+<path id="Vector_5" fill-rule="evenodd" clip-rule="evenodd" d="M-4.1416 18.0002L13.8586 8.99829L-4.1416 0V18.0002Z" fill="#FF0000"/>
+<path id="Vector_6" fill-rule="evenodd" clip-rule="evenodd" d="M1.86912 8.90027L2.67156 9.2869H1.77793L1.97855 10.1623L1.42048 9.45833L0.862422 10.1586L1.06303 9.2869H0.162109L0.968199 8.89662L0.410137 8.19996L1.21623 8.58659L1.41684 7.71484L1.61745 8.59023L2.41989 8.19996L1.86912 8.90027Z" fill="white"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_186_10134">
+<rect width="18" height="18" fill="white"/>
+</clipPath>
+</defs>
+</svg>
