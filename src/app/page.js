@@ -6,12 +6,5 @@ import MarketingCampaigns from "@/src/components/MarketingCampaigns/MarketingCam
 import SmallChartContainer from "@/src/components/SmallChartContainer/SmallChartContainer";
 
 export default function Home() {
-  return (
-    <>
-      <Users />
-      <ChartContainer />
-      <MarketingCampaigns />
-      <SmallChartContainer />
-    </>
-  );
+  return <></>;
 }
