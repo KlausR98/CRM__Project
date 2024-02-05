@@ -24,12 +24,15 @@ export default function RootLayout() {
         <body className={openSans.className}>
           <div className='flex flex-row w-full h-full'>
             <Navbar />
-            <div className='flex flex-col w-full px-1 pr-0'>
+            <div className='flex flex-col w-full px-1 pr-0 bg-[#F4F4F4]'>
               <Header />
-              <Users />
-              <ChartContainer />
-              <MarketingCampaigns />
-              <SmallChartContainer />
+              <div className=' '>
+                <h1 className='font-bold text-[22px] leading-5 ml-4'>Home</h1>
+                <SmallChartContainer />
+                <MarketingCampaigns />
+                <ChartContainer />
+                <Users />
+              </div>
             </div>
           </div>
         </body>

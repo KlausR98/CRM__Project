@@ -1,8 +1,10 @@
 import React from 'react'
 
-const ActiveStatus = () => {
+const ActiveStatus = ({ background }) => {
     return (
-        <div className="absolute h-[8px] w-[8px] rounded-full bg-green-500">
+        <div className="absolute h-[8px] w-[8px] rounded-full" style={{
+            background: background,
+        }}>
 
         </div>
     )
