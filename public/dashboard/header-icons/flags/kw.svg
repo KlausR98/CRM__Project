@@ -1,0 +1,24 @@
+<svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="kw" clip-path="url(#clip0_186_8225)">
+<g id="Clip path group">
+<mask id="mask0_186_8225" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="18" height="18">
+<g id="kw-a">
+<path id="Vector" d="M0 0H17.9972V17.9972H0V0Z" fill="white"/>
+</g>
+</mask>
+<g mask="url(#mask0_186_8225)">
+<g id="Group">
+<path id="Vector_2" fill-rule="evenodd" clip-rule="evenodd" d="M0 5.99805H35.9981V11.9995H0V5.99805Z" fill="white"/>
+<path id="Vector_3" fill-rule="evenodd" clip-rule="evenodd" d="M0 12H35.9981V18.0015H0V12Z" fill="#F31830"/>
+<path id="Vector_4" fill-rule="evenodd" clip-rule="evenodd" d="M0 0H35.9981V6.0015H0V0Z" fill="#00D941"/>
+<path id="Vector_5" fill-rule="evenodd" clip-rule="evenodd" d="M0 0V17.9972L8.98048 11.9994L8.99862 5.99424L0 0Z" fill="#000001"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_186_8225">
+<rect width="18" height="18" fill="white"/>
+</clipPath>
+</defs>
+</svg>

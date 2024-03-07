@@ -1,0 +1,22 @@
+<svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="jp" clip-path="url(#clip0_186_10145)">
+<g id="Clip path group">
+<mask id="mask0_186_10145" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="18" height="19">
+<g id="jp-a">
+<path id="Vector" d="M0.000976562 0H17.9994V18.001H0.000976562V0Z" fill="white"/>
+</g>
+</mask>
+<g mask="url(#mask0_186_10145)">
+<g id="Group">
+<path id="Vector_2" fill-rule="evenodd" clip-rule="evenodd" d="M-4.5 0H22.5002V18.001H-4.5V0Z" fill="white"/>
+<path id="Vector_3" d="M9.00029 14.5963C12.0903 14.5963 14.5953 12.0913 14.5953 9.00127C14.5953 5.91123 12.0903 3.40625 9.00029 3.40625C5.91025 3.40625 3.40527 5.91123 3.40527 9.00127C3.40527 12.0913 5.91025 14.5963 9.00029 14.5963Z" fill="#BC002D"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_186_10145">
+<rect width="18" height="18" fill="white"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,34 @@
+<svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="gw" clip-path="url(#clip0_186_9210)">
+<path id="Vector" d="M0 0H5.625V18H0V0Z" fill="#CE1126"/>
+<path id="Vector_2" d="M5.625 0H18V9H5.625V0Z" fill="#FCD116"/>
+<path id="Vector_3" d="M5.625 9H18V18H5.625V9Z" fill="#009E49"/>
+<g id="Group">
+<g id="gw-b">
+<path id="gw-a" d="M2.81152 6.99609L2.12614 9.10548L3.18084 9.44817" fill="#000001"/>
+<path id="gw-a_2" d="M2.81152 6.99609L3.4969 9.10548L2.44221 9.44817" fill="#000001"/>
+</g>
+<g id="gw-b_2">
+<path id="gw-a_3" d="M4.9209 8.5293H2.70296V9.63827" fill="#000001"/>
+<path id="gw-a_4" d="M4.9209 8.5293L3.12655 9.83297L2.47471 8.93579" fill="#000001"/>
+</g>
+<g id="gw-b_3">
+<path id="gw-a_5" d="M4.11426 11.0078L3.42888 8.89843L2.37419 9.24112" fill="#000001"/>
+<path id="gw-a_6" d="M4.11426 11.0078L2.31991 9.70414L2.97174 8.80697" fill="#000001"/>
+</g>
+<g id="gw-b_4">
+<path id="gw-a_7" d="M1.50781 11.0098L3.30216 9.70609L2.65033 8.80892" fill="#000001"/>
+<path id="gw-a_8" d="M1.50781 11.0098L2.19319 8.90038L3.24788 9.24307" fill="#000001"/>
+</g>
+<g id="gw-b_5">
+<path id="gw-a_9" d="M0.702148 8.52734L2.4965 9.83101L3.14833 8.93384" fill="#000001"/>
+<path id="gw-a_10" d="M0.702148 8.52734H2.92009V9.63631" fill="#000001"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_186_9210">
+<rect width="18" height="18" fill="white"/>
+</clipPath>
+</defs>
+</svg>

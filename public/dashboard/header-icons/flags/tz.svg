@@ -1,0 +1,26 @@
+<svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="tz" clip-path="url(#clip0_186_15282)">
+<g id="Clip path group">
+<mask id="mask0_186_15282" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="18" height="18">
+<g id="tz-a">
+<path id="Vector" d="M0 0H17.9972V17.9972H0.00362842L0 0Z" fill="white"/>
+</g>
+</mask>
+<g mask="url(#mask0_186_15282)">
+<g id="Group">
+<g id="Group_2">
+<path id="Vector_2" fill-rule="evenodd" clip-rule="evenodd" d="M-3.7334 0H23.2661V17.9972H-3.7334V0Z" fill="#0099FF"/>
+<path id="Vector_3" fill-rule="evenodd" clip-rule="evenodd" d="M-3.7334 0H23.2661L-3.7334 17.9972V0Z" fill="#009900"/>
+<path id="Vector_4" fill-rule="evenodd" clip-rule="evenodd" d="M-3.7334 17.9972H2.2681L23.2625 3.75184V0H17.2646L-3.7334 14.249V18.0009V17.9972Z" fill="#000001"/>
+<path id="Vector_5" fill-rule="evenodd" clip-rule="evenodd" d="M-3.7334 13.7156L16.8401 0H18.872L-3.7334 15.0691V13.7193V13.7156ZM0.660686 17.9972L23.2661 2.92818V4.2816L2.689 17.9972H0.660686Z" fill="#FFFF00"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_186_15282">
+<rect width="18" height="18" fill="white"/>
+</clipPath>
+</defs>
+</svg>
