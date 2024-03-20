@@ -19,10 +19,14 @@ export default function RootLayout({ children }) {
       <html lang='en'>
         <body className={openSans.className}>
           <div className='flex flex-row w-full h-full'>
-            <Navbar />
-            <div className='flex flex-col w-full px-1 pr-0 bg-[#F4F4F4]'>
-              <Header />
-              {children}
+            <div className='w-full flex flex-col items-center h-full'>
+              <div className='max-w-[1400px] flex flex-row h-full'>
+                <Navbar />
+                <div className='flex flex-col w-full px-1 pr-0 bg-[#F4F4F4]'>
+                  <Header />
+                  {children}
+                </div>
+              </div>
             </div>
           </div>
         </body>

@@ -5,7 +5,7 @@ import Image from 'next/image';
 
 export default function Page() {
     return (
-        <div className='flex justify-center items-center w-full h-full bg-[#F4F4F4] rounded-[3px]'>
+        <div className='flex justify-center items-center  h-full w-full  bg-[#F4F4F4] rounded-[3px]'>
             <div className=' h-full w-3/5 bg-gradient-to-r from-sky-500 to-indigo-500 flex flex-col items-center justify-center'>
                 <div className='bg-[#FFFFFF] w-3/5 flex flex-col items-center justify-center py-[22px]'>
                     <Image

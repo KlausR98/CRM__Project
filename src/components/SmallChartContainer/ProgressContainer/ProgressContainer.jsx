@@ -35,15 +35,15 @@ const options = {
 
 const ProgressContainer = () => {
     return (
-        <div className="flex flex-column w-[308px] h-[110px] bg-white rounded-lg shadow-lg">
-            <div className="flex flex=column gap-10">
-                <div className=" mx-6">
-                    <div className="flex flex-row items-center h-4 mt-4 ">
+        <div className="flex flex-col bg-white rounded-lg shadow-lg p-2">
+            <div className="flex flex-row gap-2">
+                <div className="">
+                    <div className="flex flex-row items-center mt-4">
                         <span className="text-[#0E2238] opacity-[0.35] font-semibold text-xs leading-[16px] ">PROGRESS</span>
                     </div>
                     <div className="pt-[7.5px]">
                         <h1 className=" text-[#0E2238] text-[22px] leading-[30px] font-bold">%</h1>
-                        <div className="flex justify-center items-center pt-[1px] w-[50px] h-[15px] text-[10px] text-[#31CF80] bg-[#E4F9EE] leading-[10px] rounded">
+                        <div className="flex justify-center items-center pt-[1px] max-w-[50px] max-h-[15px] text-[10px] text-[#31CF80] bg-[#E4F9EE] leading-[10px] rounded">
                             <Image
                                 src={ProgressArrowIcon}
                                 alt="ProgressArrowIcon"
@@ -54,7 +54,7 @@ const ProgressContainer = () => {
                         </div>
                     </div>
                 </div>
-                <div className="flex mx-6 my-5">
+                <div className="flex">
                     <Chart
                         chartType="AreaChart"
                         width="100%"

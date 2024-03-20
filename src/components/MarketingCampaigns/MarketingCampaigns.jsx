@@ -4,7 +4,7 @@ import TableData from '../TableData/TableData';
 
 const MarketingCampaigns = () => {
   return (
-    <div className=" bg-white h-[410px] w-[477px] shadow-lg rounded-lg ml-4">
+    <div className=" bg-white h-[410px] w-[477px] shadow-lg rounded-lg">
       <div className="flex flex-row justify-between items-center h-[61px] 
       mt-1 mx-4">
         <p className=" text-[#0E2238] font-bold leading-[20px] text-[14px] ">

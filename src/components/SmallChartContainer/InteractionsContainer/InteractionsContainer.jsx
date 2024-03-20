@@ -20,19 +20,32 @@ const data = [
 const options = {
     height: 65,
     width: 94,
+    chartArea: {
+        color: '#00BAC7',
+    },
     series: {
-        0: { color: '#9EA9B4' },
+        0: { color: '#D5DDE4' },
     },
     legend: {
         position: "none",
     },
+    vAxis: {
+        viewWindow: {
+            min: 0
+        },
+        baselineColor: 'none',
+        gridlines: {
+            color: 'none'
+        },
+        textPosition: 'none'
+    }
 };
 
 const InteractionsContainer = () => {
     return (
-        <div className="flex flex-column w-[308px] h-[110px] bg-white rounded-lg shadow-lg">
-            <div className="flex flex=column gap-7">
-                <div className=" ml-6">
+        <div className="flex flex-col bg-white rounded-lg shadow-lg p-2">
+            <div className="flex flex-row gap-7">
+                <div className="">
                     <div className="flex flex-row items-center h-4 mt-4 ">
                         <span className="text-[#0E2238] opacity-[0.35] font-semibold text-xs leading-[16px] pr-1">INTERACTIONS</span>
                         <Image

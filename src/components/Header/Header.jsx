@@ -18,7 +18,7 @@ const Header = () => {
     <div className="bg-white flex flex-row justify-center py-2 items-center w-full w-min-[1024px] h-[100px] ">
       <div className="flex flex-row justify-between max-h-[40px] gap-4 w-full">
         <div className="bg-[#F1F5F7] flex items-center justify-between min-h-[34px] w-[250px] rounded-[10px] ml-6">
-          <input type="text" name="Search" className="bg-[#F1F5F7]" />
+          <input type="text" placeholder='Search' name="Search" className="bg-[#F1F5F7]" />
           {/* tu input przezroczysty bo div daje tlo */}
           <div className=" bg-[#00BAC7] flex w-[30px] h-[30px] rounded-[10px] justify-center items-center cursor-pointer">
             <Image

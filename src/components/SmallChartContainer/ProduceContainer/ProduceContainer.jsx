@@ -5,9 +5,9 @@ import ActiveStatus from '@/src/components/ActiveStatus/ActiveStatus'
 
 const ProduceContainer = () => {
     return (
-        <div className="flex flex-column w-[210px] h-[110px] bg-white rounded-lg shadow-lg ">
-            <div className="flex flex=column gap-7">
-                <div className=" ml-6">
+        <div className="flex flex-col bg-white rounded-lg shadow-lg p-2">
+            <div className="flex flex-row gap-7">
+                <div className="">
                     <div className="flex flex-row items-center h-4 mt-4 ">
                         <ActiveStatus background={`#31CF80`} />
                         <span className="text-[#0E2238] opacity-[0.35] font-semibold text-xs leading-[16px] pl-3">PRODUCE</span>

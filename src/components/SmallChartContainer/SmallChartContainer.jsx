@@ -6,7 +6,7 @@ import InteractionsContainer from '@/src/components/SmallChartContainer/Interact
 
 const SmallChartContainer = () => {
   return (
-    <div className="flex flex-row justify-around w-[1160px] h-[140px] mt-4">
+    <div className="flex flex-row mt-4 gap-2 flex-wrap lg:justify-between">
       <ProduceContainer />
       <BudgetLeftContainer />
       <ProgressContainer />
